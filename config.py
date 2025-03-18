@@ -1,5 +1,5 @@
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@smartindiantalk?si=6QVyZIwXGcicaXug
 # Ask Doubt on telegram @KingVJ01
 
 
@@ -84,6 +84,6 @@ URL = environ.get("URL", "https://testofvjfilter-1fa60b1b8498.herokuapp.com/")
 
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@smartindiantalk?si=6QVyZIwXGcicaXug
 # Ask Doubt on telegram @KingVJ01
     
